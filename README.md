@@ -7,6 +7,11 @@ Exemplificação do MVC:
 
 ![2_1198](https://github.com/piedro404/curso-senai-web-mvc-LHPet-cs/assets/88720549/0c509488-5527-4266-93bd-ee6ca282ce3e)
 
+POSTMAN
+
+<img width="960" alt="2024-06-23_23h00_29" src="https://github.com/piedro404/curso-senai-Exo.WebApi/assets/88720549/4d9b0df4-accc-4175-b0d8-96e38629f311">
+
+
 ## 👨‍💻️ Tecnologias Utilizadas
 Esse projeto foi criado utilizando as tecnologias:
 ### Back-End
