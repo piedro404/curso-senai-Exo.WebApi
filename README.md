@@ -22,7 +22,7 @@ Clone o projeto com o comando abaixo:
   ❯ git clone https://github.com/piedro404/curso-senai-Exo.WebApi.git
 
   # Entre no diretório
-  ❯ cd curso-senai-web-mvc-LHPet-cs
+  ❯ cd curso-senai-Exo.WebAp
 
   # Execute o projeto
   ❯ dotnet run
