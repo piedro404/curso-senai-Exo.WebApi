@@ -17,10 +17,11 @@ namespace Exo.WebApi.Contexts
                         "User ID=sa;Password=admin;"
                         + "Server=localhost\\SQLEXPRESS;"
                         + "Database=ExoApi;"
-                        + "Trusted_Connection=True;"
+                        + "Trusted_Connection=false;"
                     );
             }
         }
         public DbSet<Projeto> Projetos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }
