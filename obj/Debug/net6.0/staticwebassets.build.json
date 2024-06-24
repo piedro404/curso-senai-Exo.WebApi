@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8aNYTxKaXuRyFkXGxuTW+Q7V35bmS33RHsTzTvhG/68=",
+  "Source": "Exo.WebApi",
+  "BasePath": "_content/Exo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
