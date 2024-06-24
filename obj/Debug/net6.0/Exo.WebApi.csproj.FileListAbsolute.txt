@@ -812,3 +812,4 @@ C:\Projetos\Curso\Senai EAD\Atividades\introducao-api\Exo.WebApi\obj\Debug\net6.
 C:\Projetos\Curso\Senai EAD\Atividades\introducao-api\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 C:\Projetos\Curso\Senai EAD\Atividades\introducao-api\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Projetos\Curso\Senai EAD\Atividades\introducao-api\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Projetos\Curso\Senai EAD\Atividades\introducao-api\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
